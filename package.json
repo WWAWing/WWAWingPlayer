@@ -1,0 +1,18 @@
+{
+  "name": "wwawing-player",
+  "version": "1.0.0",
+  "description": "WWA Wing Player Application",
+  "main": "src/wwawing_player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/electron ."
+  },
+  "keywords": [
+    "WWA"
+  ],
+  "author": "WWA Wing Team",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.1.1"
+  }
+}
